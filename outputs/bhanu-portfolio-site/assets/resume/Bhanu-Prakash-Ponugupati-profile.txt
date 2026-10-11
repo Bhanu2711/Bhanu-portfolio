@@ -1,0 +1,48 @@
+Bhanu Prakash Ponugupati
+Computer Science Graduate
+
+Profile
+Computer Science graduate from Malla Reddy University with confirmed experience and training across customer support operations, Salesforce development fundamentals, programming, web fundamentals, databases, cloud concepts, DevOps tools, Linux fundamentals, and networking concepts.
+
+Education
+Bachelor of Engineering in Computer Science
+Malla Reddy University
+June 2021 - May 2025
+CGPA: 7.84/10
+
+Class 12: 94%
+Class 10: CGPA 9.3/10
+
+Experience
+Amazon Development Centre India Pvt. Ltd., Hyderabad
+Fixed-Term Employee, CS Associate (IP)[S]
+June 23, 2025 - August 21, 2025
+Handled inbound calls from international customers concerning orders, refunds, account issues, and deliveries.
+
+Salesforce Developer Virtual Internship
+July 2024 - August 2024
+Training involving Salesforce Fundamentals, Apex, testing and debugging, Lightning Web Components, and process automation.
+
+Projects
+FireGuard
+Intelligent Fire Detection Using Machine Learning with CNNs.
+
+Message Encode Decode
+Python application using Tkinter and AES-256.
+
+Skills
+Java, Python, C, HTML, CSS, MySQL, MongoDB, AWS, Docker, Kubernetes, Linux fundamentals, TCP/IP, DNS.
+
+Certifications
+Salesforce Developer Virtual Internship
+NPTEL Programming in Java
+NPTEL Data Analytics with Python
+National Intellectual Property Awareness Mission training
+
+Achievements and Interests
+Tech Quiz and poster-presentation awards
+Sports coordination
+Handball team captaincy
+
+Contact
+Verified email and LinkedIn details were not included in the supplied files. Replace this file with the official resume PDF when available.
