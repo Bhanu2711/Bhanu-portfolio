@@ -890,3 +890,19 @@ h1 span {
     transition-duration: 0.001ms !important;
   }
 }
+
+.certification-panel li a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: var(--silver);
+  text-decoration: none;
+  text-underline-offset: 0.22em;
+  transition: color 180ms ease;
+}
+
+.certification-panel li a:hover,
+.certification-panel li a:focus-visible {
+  color: var(--white);
+  text-decoration: underline;
+}

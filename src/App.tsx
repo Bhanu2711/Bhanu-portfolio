@@ -193,7 +193,17 @@ function App() {
                 <h3>Certifications</h3>
                 <ul>
                   {certifications.map((certification) => (
-                    <li key={certification}>{certification}</li>
+                    <li key={certification.title}>
+                      <a
+                        href={certification.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        aria-label={`View ${certification.title} certificate in a new tab`}
+                      >
+                        {certification.title}
+                        <ExternalLink aria-hidden="true" size={14} />
+                      </a>
+                    </li>
                   ))}
                 </ul>
               </Reveal>

@@ -162,21 +162,32 @@ export const education: EducationItem[] = [
   },
   {
     title: 'Class 12',
-    institution: 'Confirmed academic record',
+    institution: 'Sri Chaitanya Junior College',
     detail: '94%',
   },
   {
     title: 'Class 10',
-    institution: 'Confirmed academic record',
+    institution: 'Sri Chaitanya Star Kids School',
     detail: 'CGPA 9.3/10',
   },
 ];
 
 export const certifications = [
-  'Salesforce Developer Virtual Internship',
-  'NPTEL Programming in Java',
-  'NPTEL Data Analytics with Python',
-  'National Intellectual Property Awareness Mission training',
+  {
+    title: 'Salesforce Developer Virtual Internship',
+    href: 'assets/certificates/Salesforce-Developer-Virtual-Internship.pdf',
+    format: 'PDF',
+  },
+  {
+    title: 'NPTEL Programming in Java',
+    href: 'assets/certificates/Programming-In-Java.jpeg',
+    format: 'Image',
+  },
+  {
+    title: 'NPTEL Data Analytics with Python',
+    href: 'assets/certificates/Data-Analytics-with-Python.pdf',
+    format: 'PDF',
+  },
 ];
 
 export const achievements = [
