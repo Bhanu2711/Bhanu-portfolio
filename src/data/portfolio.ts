@@ -163,11 +163,13 @@ export const education: EducationItem[] = [
   {
     title: 'Class 12',
     institution: 'Sri Chaitanya Junior College',
+    period: '2019 - 2021',
     detail: '94%',
   },
   {
     title: 'Class 10',
     institution: 'Sri Chaitanya Star Kids School',
+    period: '2018 - 2019',
     detail: 'CGPA 9.3/10',
   },
 ];
